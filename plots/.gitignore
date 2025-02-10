@@ -1,0 +1,7 @@
+# Ignore large dataset files
+data/*.gz
+
+# Ignore system and temporary files
+__pycache__/
+*.pyc
+.DS_Store
