@@ -30,4 +30,10 @@ This project analyzes gene expression data from the **GSE60486** dataset using P
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR-USERNAME/gene-expression-analysis.git
+   pip install pandas matplotlib seaborn numpy
+python gene_expression_analysis.py
+
+Acknowledgements
+Dataset from NCBI GEO.
+Analysis performed using Python and open-source libraries.
 
