@@ -26,12 +26,7 @@ This project analyzes gene expression data from the **GSE60486** dataset using P
 - **Boxplot:** Variability of gene expression across selected samples.
 - **Heatmap:** Top 20 highly expressed genes.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/gene-expression-analysis.git
-   pip install pandas matplotlib seaborn numpy
-python gene_expression_analysis.py
+
 
 Acknowledgements
 Dataset from NCBI GEO.
